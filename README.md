@@ -20,3 +20,5 @@ color: var(--gray-base, 312e38);
 
 1. Numbered list 1
 2. Numbered list 2
+
+Test: &amp; word &lt; another &gt;
